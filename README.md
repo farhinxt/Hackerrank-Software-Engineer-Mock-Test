@@ -1,6 +1,6 @@
 # HackerRank Software Engineer Mock Test Solutions
 
-This repository contains the optimized source code and solutions for the HackerRank Software Engineer Mock Test, completed on September 3, 2026. The test achieved a **100% score (125/125 points)**.
+This repository contains the optimized source code and solutions for the HackerRank Software Engineer Mock Test, completed on September 3, 2026. Achieved a **100% score (125/125 points)**.
 
 ## Test Overview
 
